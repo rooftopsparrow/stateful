@@ -1,0 +1,3 @@
+For this assignment you are to deliver an implementation of a Java class named Stateful that adheres to the [Stateful API](http://jodypaul.com/cs/sweprin/statefulAPI/Stateful.html) specification.
+
+This assignment uses programming knowledge that is prerequisite for CS4250 and your submission should be a demonstration of your best practices under the given time constraint.  Significant quality attributes include correctness and maintainability.  Adherence to the API specification is essential.  Your source code should include Javadoc comments that faithfully reproduce the given API document, with the Version and Author tags appropriately modified.
